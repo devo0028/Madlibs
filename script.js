@@ -4,7 +4,7 @@ const littleRed = {
     adjective: 'sweet',
     exclamation: 'BROOOOOOTTHHERRRRRRRR',
     silly: 'Faceplant',
-    verbs: ['stared', 'flex', 'look cool']
+    verbs: ['stared', 'flex', 'look cool'] 
 }
 console.log(`One day, Little ${littleRed.color} Riding Hood was going through the forest carrying a 
 basket of ${littleRed.pluralNouns[0]} for her grandmother. Suddenly, she met a big 
